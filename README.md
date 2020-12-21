@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaokang</h1>
-<h3 align="center">Frontend developer @ Toronto</h3>
+<h2 align="center">Frontend developer @ Toronto</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,3 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiseatu&show_icons=true&locale=en&layout=compact" alt="aiseatu" /></p>
 
+<!-- created with github profile readme generator https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
